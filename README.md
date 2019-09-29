@@ -1,8 +1,4 @@
 
-####################### https://courses.pragmaticpaths.com ##############
-# Part of a course 'Mastering Fabric Chaincode Development using GoLang'#
-# http://www.bcmentors.com      raj@acloudfan.com                       #
-#########################################################################
 
 Change Log:
 ----------
